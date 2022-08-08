@@ -1,5 +1,5 @@
 function initialise() {
-    canvas= document.getElementById('kunal');
+    canvas= document.getElementById('Himanshi');
     W=canvas.width;
     H=canvas.height;
     //To draw something on the canvas I will take a pen
